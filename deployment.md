@@ -1,3 +1,4 @@
+```bash
 pipeline {
     agent <agent name>
 
@@ -80,6 +81,6 @@ pipeline {
     }
 }
 
-
+```
 
 https://medium.com/@nanditasahu031/jenkins-pipeline-with-maven-sonarqube-and-talisman-fa9118910b98      
