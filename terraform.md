@@ -1,4 +1,4 @@
-<code>
+```bash
     provider "aws" {
     region = "ap-south-1"
     shared_credentials_files = ["/root/.aws/credentials" ]
@@ -225,4 +225,4 @@ resource "aws_autoscaling_policy" "scale_in_policy" {
 
 
 
-</code>
+```
